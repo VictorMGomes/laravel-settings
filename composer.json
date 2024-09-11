@@ -1,5 +1,5 @@
 {
-    "name": "smartisan/settings",
+    "name": "victormgomes/settings",
     "description": "App & Models Settings for Laravel",
     "keywords": [
         "laravel-settings"
@@ -8,12 +8,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Isa",
+            "name": "Victor M. Gomes",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "ext-json": "*",
         "illuminate/database": "^11.0",
         "illuminate/support": "^11.0"
